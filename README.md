@@ -34,7 +34,7 @@ This repo highlights my growth in AI, while my marketing portfolio showcases the
 ## 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/marcellotosti)  
-- [Marketing Portfolio](https://www.marcellotosticreative.com/)  
+- [Email](mailto:marcellontosti@gmail.com)
 - **AI Portfolio (this repo)**  
 
 ---
